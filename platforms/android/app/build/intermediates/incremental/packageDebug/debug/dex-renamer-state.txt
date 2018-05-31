@@ -1,0 +1,4 @@
+#Thu May 31 18:14:36 CEST 2018
+base.0=/Users/dnguyen/Documents/web_trends_course/cordovaApp/EuropeFoodMap/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+file.0=/Users/dnguyen/Documents/web_trends_course/cordovaApp/EuropeFoodMap/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex
